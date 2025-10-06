@@ -28,14 +28,14 @@
 
       h2 {
         margin-top: 0;
-        color: #171620;
+        color: #174F62;
       }
 
       input[type="text"] {
 		background: #f2f2f2;
 		border: 1px solid rgba(48, 48, 48, 0.6);
 		border-radius: 30px;
-		color: #171620;
+		color: #174F62;
 		display: flex;
 		outline: 0;
 		padding: 10px 0 10px 15px;
