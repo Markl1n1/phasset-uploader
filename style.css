@@ -8,7 +8,7 @@
         color: white;
         margin: 0;
         letter-spacing: 1px;
-        background-color: #171620;
+        background-color: #174F62;
         background-image: url('/bg.avif');
         background-repeat: no-repeat;
         background-size: cover;
@@ -59,7 +59,7 @@
         border: 1px dashed #ccc;
         border-radius: 5px;
         background-color: #f0f0f0;
-        color: #171620;
+        color: #174F62;
         font-weight: bold;
         cursor: pointer;
         margin-top: 20px;

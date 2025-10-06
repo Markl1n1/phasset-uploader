@@ -20,7 +20,7 @@
         <input type="text" name="surname" placeholder="Last Name" required>
         <input type="file" name="files[]" id="file-upload" class="custom-file-input" multiple required>
         <label for="file-upload" class="custom-file-label">
-          <img width="60" height="60" src="https://img.icons8.com/ios-filled/50/add-file.png" alt="add-file"/>
+          <img width="60" height="60" src="/add-file.svg" alt="add-file"/>
           <span id="file-label-text">Drag or drop files here</span>
         </label>
         <br>
