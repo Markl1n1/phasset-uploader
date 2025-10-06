@@ -9,7 +9,7 @@
         margin: 0;
         letter-spacing: 1px;
         background-color: #171620;
-        background-image: url('https://d1oco4z2z1fhwp.cloudfront.net/templates/default/8106/bg_lines.png'); 
+        background-image: url('/bg.avif');
         background-repeat: no-repeat;
         background-size: cover;
       }
