@@ -1,0 +1,102 @@
+  body {
+        font-family: "Rubik", sans-serif;
+        font-weight: 300;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        color: white;
+        margin: 0;
+        letter-spacing: 1px;
+        background-color: #171620;
+        background-image: url('https://d1oco4z2z1fhwp.cloudfront.net/templates/default/8106/bg_lines.png'); 
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+		
+	img {
+		margin-bottom: 15px;
+	}
+      .upload-container {
+        text-align: center;
+        border: 2px solid #ccc;
+        padding: 40px;
+        border-radius: 10px;
+        background-color: white;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      }
+
+      h2 {
+        margin-top: 0;
+        color: #171620;
+      }
+
+      input[type="text"] {
+		background: #f2f2f2;
+		border: 1px solid rgba(48, 48, 48, 0.6);
+		border-radius: 30px;
+		color: #171620;
+		display: flex;
+		outline: 0;
+		padding: 10px 0 10px 15px;
+        width: calc(100% - 22px);
+      }
+
+      .custom-file-input {
+        display: none;
+      }
+
+      #file-label-text {
+        margin-top: 15px;
+      }
+
+      .custom-file-label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        border: 1px dashed #ccc;
+        border-radius: 5px;
+        background-color: #f0f0f0;
+        color: #171620;
+        font-weight: bold;
+        cursor: pointer;
+        margin-top: 20px;
+      }
+
+      .custom-file-label img {
+        vertical-align: middle;
+        margin-right: 10px;
+      }
+
+      .custom-file-label:hover {
+        background-color: #e0e0e0;
+      }
+
+      button {
+        background: #fe566f;
+        color: #171620;
+        font-weight: 700;
+        padding: 14px 30px;
+        border: none;
+        border-radius: 60px;
+        cursor: pointer;
+        font-size: 14px;
+        letter-spacing: -.28px;
+        text-transform: capitalize;
+        margin-top: 25px;
+      }
+
+      .message {
+        margin-top: 20px;
+        font-size: 18px;
+      }
+
+      .success {
+        color: green;
+      }
+
+      .error {
+        color: red;
+      }
