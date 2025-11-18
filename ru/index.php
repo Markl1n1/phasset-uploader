@@ -30,7 +30,7 @@
         <div style="display: flex; justify-content: center;">
           <button type="submit">Загрузить</button>
           <button class="topup">Пополнить</button>
-        </div>
+        </div> 
       </form>
       <div class="message"> <?php
             if (isset($_GET['status'])) {
