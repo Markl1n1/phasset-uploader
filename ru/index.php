@@ -27,7 +27,11 @@
         <p style="color: #171620; font-style: italic;">Как правильно сделать фото? смотреть <a href="../template.png" target="_blank" style="color:#171620; text-decoration-line: underline;">шаблон</a>
         </p>
         <br>
-        <button type="submit">Загрузить</button> <button class="topup">Пополнить</button> 
+        <div style="display: flex; justify-content: center;">
+          <button type="submit">Загрузить</button>
+          <button class="topup" style="margin-right: 15px">Пополнить</button>
+        </div>
+         
       </form>
       <div class="message"> <?php
             if (isset($_GET['status'])) {
