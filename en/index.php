@@ -27,10 +27,7 @@
         <p style="color: #171620; font-style: italic;">How to Make Photo? see <a href="../template.png" target="_blank" style="color:#171620; text-decoration-line: underline;">template</a>
         </p>
         <br>
-        <div style="display: flex; justify-content: center;">
-          <button type="submit">Upload</button>
-          <button class="topup">Top up</button>
-        </div>
+        <button type="submit">Upload</button>
       </form>
       <div class="message"> <?php
             if (isset($_GET['status'])) {

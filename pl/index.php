@@ -27,10 +27,7 @@
         <p style="color: #171620; font-style: italic;">Jak zrobić zdjęcie? zobacz <a href="../template.png" target="_blank" style="color:#171620; text-decoration-line: underline;">szablon</a>
         </p>
         <br>
-        <div style="display: flex; justify-content: center;">
-          <button type="submit">Przesyłanie</button>
-          <button class="topup">Doładuj</button>
-        </div>
+        <button type="submit">Przesyłanie</button>
       </form>
       <div class="message"> <?php
             if (isset($_GET['status'])) {
