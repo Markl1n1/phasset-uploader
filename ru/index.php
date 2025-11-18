@@ -31,7 +31,6 @@
           <button type="submit">Загрузить</button>
           <button class="topup">Пополнить</button>
         </div>
-         
       </form>
       <div class="message"> <?php
             if (isset($_GET['status'])) {
