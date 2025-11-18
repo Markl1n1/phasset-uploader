@@ -29,7 +29,7 @@
         <br>
         <div style="display: flex; justify-content: center;">
           <button type="submit">Загрузить</button>
-          <button class="topup" style="margin-right: 15px">Пополнить</button>
+          <button class="topup">Пополнить</button>
         </div>
          
       </form>
