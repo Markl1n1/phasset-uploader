@@ -13,7 +13,7 @@
   </head>
   <body>
     <div class="upload-container">
-      <img src="../philippos--icon.png" alt="Philippos Asset Management logo">
+      <img src="../philippos-icon.svg" alt="Philippos Asset Management logo">
       <h2>Загрузите подтверждение платежа / Фото документов</h2>
       <form action="upload.php" method="post" enctype="multipart/form-data">
         <input type="text" name="name" style="margin-bottom: 15px;" placeholder="Имя" required>
